@@ -1,0 +1,10 @@
+Py School City Analysis
+
+Here is a summary of the analysis:
+I Aggregated the student data at the district level to calculate various summary statistics about the students and their performance in Math and Reading, as measured by a subject score and a passing rate (defined as % of students with a score greater than or equal to 70). I then refined the data further, by averaging the scores first by school and then by school & grade. We then performed more detailed analysis of test scores, by grouping the data based on budget per student, school size and school type. 
+- 
+
+
+Key conclusions and comparison: 
+- In general, students performed better in reading than in math. The average student in the district class score was ~2.9 points higher for reading than math. The passing rate was ~11% higher for reading than Math too.
+- Test scores at Large schools (2000-5000) below Small & Medium schools. Test scores at charter schools were higher than district schools. Higher levels of spending per student actually correlated to lower test scores (presumably reflecting a districts response to increasing funding per student)
